@@ -1,6 +1,6 @@
 
 ---
-name: Bug
+name: Relatar Bug
 about: Registrar um comportamento incorreto no SpeakUp
 title: "[BUG] "
 ---

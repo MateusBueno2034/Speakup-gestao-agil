@@ -37,6 +37,10 @@ Os dois integrantes colaboram na elaboração e revisão dos artefatos, na organ
 
 Este repositório contém os artefatos de gestão ágil do projeto, incluindo o backlog de produto, os templates de issues e pull requests, a documentação do time e o quadro Kanban.
 
+O quadro Kanban do projeto pode ser acessado pelo GitHub Projects:
+
+[SpeakUp — Gestão Ágil: Quadro Kanban](https://github.com/users/MateusBueno2034/projects/1/views/1)
+
 O protótipo de interface do SpeakUp pode ser acessado pelo Figma:
 
 [Protótipo do SpeakUp no Figma](https://www.figma.com/design/JT1KnFQ30ctyuTukdbVrlu/SpeakUp?node-id=0-1&t=4WyKp8QGO9Gslta9-1)
